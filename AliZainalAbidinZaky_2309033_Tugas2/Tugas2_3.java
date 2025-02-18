@@ -14,9 +14,6 @@ public class Tugas2_3 {
         int ascii1 = (int) char1;
         int ascii2 = (int) char2;
         
-//        int ascii1 = (int) '1'; //kode asciinya 49
-//        int ascii2 = (int) '2'; //kode asciinya 50
-        
         int sum = ascii1 + ascii2;
         
         System.out.println("kode ASCII-1 : " + ascii1);
